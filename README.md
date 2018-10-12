@@ -1,4 +1,4 @@
-# ETC - Evidence based therapy for chronic pain
+# ETCH - Evidence based therapy for chronic pain
 University of Roehampton - A group therapy for Chronic pain patients
 
 This protocol (in progress) is evidence based and aims at describing how to deliver a 8 session psychological therapy for Chronic Pain patients.
